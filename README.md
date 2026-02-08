@@ -170,5 +170,3 @@ YOLOv8 (You Only Look Once, Version 8) is chosen for its:
 **Snigdha Bairi**
 
 **Project Status**: ✅ Complete  
-**Date**: February 2026  
-**Application Context**: Portfolio project for German university MS applications in Computer Science/AI
