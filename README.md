@@ -2,6 +2,17 @@
 
 A YOLOv8-based real-time vehicle detection system designed for complex Indian traffic conditions, capable of detecting 10+ vehicle classes including auto-rickshaws, motorcycles, and tractors.
 
+## View Full Project
+
+**Note:** The full notebook with outputs is too large for GitHub's viewer.
+
+**View Interactive Notebook with All Results:**
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ER9llTR9RNS-ihLfZucfkIZSDbKpDIC?usp=sharing)
+
+*Click above to view the complete project with all detection results, visualizations, and outputs.*
+
+---
 ## Overview
 
 This project implements a state-of-the-art object detection system using YOLOv8 to identify and classify multiple vehicle types in chaotic Indian traffic scenarios. The system processes road images to detect cars, trucks, buses, auto-rickshaws, two-wheelers, and pedestrians - providing the foundational perception layer for autonomous vehicle navigation.
